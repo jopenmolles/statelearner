@@ -1,0 +1,34 @@
+Apr 11, 2019 10:47:39 PM nl.cypherpunk.statelearner.Learner <init>
+INFO: Using TLS SUL
+Apr 11, 2019 10:47:45 PM nl.cypherpunk.statelearner.Learner learn
+INFO: Using learning algorithm ExtensibleLStarMealy
+Apr 11, 2019 10:47:45 PM nl.cypherpunk.statelearner.Learner learn
+INFO: Using equivalence algorithm MealyModifiedWMethodEQOracle
+Apr 11, 2019 10:47:45 PM nl.cypherpunk.statelearner.Learner learn
+INFO: Starting learning
+Apr 11, 2019 10:47:45 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 1
+Apr 11, 2019 11:06:53 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloDHE EmptyCertificate Alert10 ClientKeyExchange EmptyCertificate / HandshakeServerHelloTLSv12HandshakeCertificateHandshakeServerKeyExchangeHandshakeServerHelloDone Empty Empty ConnectionClosed ConnectionClosed]
+Apr 11, 2019 11:06:53 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 2
+Apr 11, 2019 11:17:24 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloDHE ClientKeyExchange ChangeCipherSpec / HandshakeServerHelloTLSv12HandshakeCertificateHandshakeServerKeyExchangeHandshakeServerHelloDone ConnectionClosed ConnectionClosed]
+Apr 11, 2019 11:17:24 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 3
+Apr 11, 2019 11:33:16 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloDHE EmptyCertificate ClientKeyExchange Finished EmptyCertificate EmptyCertificate / HandshakeServerHelloTLSv12HandshakeCertificateHandshakeServerKeyExchangeHandshakeServerHelloDone Empty ConnectionClosed ConnectionClosed ConnectionClosed ConnectionClosed]
+Apr 11, 2019 11:33:16 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 4
+Apr 11, 2019 11:42:37 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloDHE ClientKeyExchange / HandshakeServerHelloTLSv12HandshakeCertificateHandshakeServerKeyExchangeHandshakeServerHelloDone ConnectionClosed]
+Apr 11, 2019 11:42:37 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 5
+Apr 11, 2019 11:55:14 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|Alert10 ClientHelloDHE ClientKeyExchange Finished EmptyCertificate / Empty HandshakeServerHelloTLSv12HandshakeCertificateHandshakeServerKeyExchangeHandshakeServerHelloDone ConnectionClosed ConnectionClosed ConnectionClosed]
+Apr 11, 2019 11:55:14 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 6
+Apr 12, 2019 12:13:57 AM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloDHE ClientKeyExchange ChangeCipherSpec Alert10 / HandshakeServerHelloTLSv12HandshakeCertificateHandshakeServerKeyExchangeHandshakeServerHelloDone ConnectionClosed ConnectionClosed ConnectionClosed]
+Apr 12, 2019 12:13:57 AM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 7

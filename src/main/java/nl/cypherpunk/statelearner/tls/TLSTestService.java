@@ -934,16 +934,26 @@ public class TLSTestService {
 		
 		byte[] extensions = new byte[] {};
 		
-		// Add renegotiation extension (needed for miTLS)
-		Extension renegotiation_extension = new Extension(TLS.EXTENSION_TYPE_RENEGOGIATION_INFO, new byte[] { 0x00 });
-		extensions = Utils.concat(extensions, renegotiation_extension.getBytes());
+		// // Add renegotiation extension (needed for miTLS)
+		// Extension renegotiation_extension = new Extension(TLS.EXTENSION_TYPE_RENEGOGIATION_INFO, new byte[] { 0x00 });
+		// extensions = Utils.concat(extensions, renegotiation_extension.getBytes());
 		
-		// Add heartbeat extension
-		if(ENABLE_HEARTBEAT) {
-			Extension heartbeat_extension = new Extension(TLS.EXTENSION_TYPE_HEARTBEAT, new byte[] { 0x02 });
-			extensions = Utils.concat(extensions, heartbeat_extension.getBytes());
-		}
+		// // Add heartbeat extension
+		// if(ENABLE_HEARTBEAT) {
+		// 	Extension heartbeat_extension = new Extension(TLS.EXTENSION_TYPE_HEARTBEAT, new byte[] { 0x02 });
+		// 	extensions = Utils.concat(extensions, heartbeat_extension.getBytes());
+		// }
 		
+	    byte[] signature_algorithms_extension = {
+			0x00, 0x0d, 0x00, 0x20, 0x00, 0x1e, 0x06, 0x01,
+			0x06, 0x02, 0x06, 0x03, 0x05, 0x01, 0x05, 0x02,
+			0x05, 0x03, 0x04, 0x01, 0x04, 0x02, 0x04, 0x03,
+			0x03, 0x01, 0x03, 0x02, 0x03, 0x03, 0x02, 0x01,
+			0x02, 0x02, 0x02, 0x03
+		  };		  
+		
+		extensions = Utils.concat(extensions, signature_algorithms_extension);
+
 		ClientHello ch = new ClientHello(currentTLS.getProtocolVersion(), client_random, new byte[] {}, ciphersuites, new byte[] {0x00}, extensions);
 		
 		if(buffer_reset || OPENSSL_MODE) {
@@ -985,29 +995,37 @@ public class TLSTestService {
 		
 		byte[] extensions = new byte[] {};
 		
-		// Add renegotiation extension (needed for miTLS)
-		byte[] renegotiation_extension;
+		// // Add renegotiation extension (needed for miTLS)
+		// byte[] renegotiation_extension;
 		
-		// OpenSSL reusing keys bug
-		if(session_id.length > 0) {
-			renegotiation_extension = new byte[5 + verify_data.length];
-			renegotiation_extension[0] = (byte)0xFF;
-			renegotiation_extension[1] = 0x01;
-			renegotiation_extension[2] = 0x00;
-			renegotiation_extension[3] = (byte)((0xFF & verify_data.length) + 1);
-			renegotiation_extension[4] = (byte)(0xFF & verify_data.length);
-			System.arraycopy(verify_data, 0, renegotiation_extension, 5, verify_data.length);
-		}
-		else {
-			renegotiation_extension = new byte[] {(byte)0xFF, 0x01, 0x00, 0x01, 0x00};
-		}
-		extensions = Utils.concat(extensions, renegotiation_extension);
+		// // OpenSSL reusing keys bug
+		// if(session_id.length > 0) {
+		// 	renegotiation_extension = new byte[5 + verify_data.length];
+		// 	renegotiation_extension[0] = (byte)0xFF;
+		// 	renegotiation_extension[1] = 0x01;
+		// 	renegotiation_extension[2] = 0x00;
+		// 	renegotiation_extension[3] = (byte)((0xFF & verify_data.length) + 1);
+		// 	renegotiation_extension[4] = (byte)(0xFF & verify_data.length);
+		// 	System.arraycopy(verify_data, 0, renegotiation_extension, 5, verify_data.length);
+		// }
+		// else {
+		// 	renegotiation_extension = new byte[] {(byte)0xFF, 0x01, 0x00, 0x01, 0x00};
+		// }
+		// extensions = Utils.concat(extensions, renegotiation_extension);
 		
-		// Add heartbeat extension
-		if(ENABLE_HEARTBEAT) {
-			byte[] heartbeat_extension = new byte[] {0x00, 0x0F, 0x00, 0x01, 0x02};
-			extensions = Utils.concat(extensions, heartbeat_extension);
-		}
+		// // Add heartbeat extension
+		// if(ENABLE_HEARTBEAT) {
+		// 	byte[] heartbeat_extension = new byte[] {0x00, 0x0F, 0x00, 0x01, 0x02};
+		// 	extensions = Utils.concat(extensions, heartbeat_extension);
+		// }
+	    byte[] signature_algorithms_extension = {
+			0x06, 0x01, 0x06, 0x02, 0x06, 0x03, 0x05, 0x01,
+			0x05, 0x02, 0x05, 0x03, 0x04, 0x01, 0x04, 0x02,
+			0x04, 0x03, 0x03, 0x01, 0x03, 0x02, 0x03, 0x03,
+			0x02, 0x01, 0x02, 0x02, 0x02, 0x03
+		};
+
+		extensions = Utils.concat(extensions, signature_algorithms_extension);
 		
 		// OpenSSL reusing keys bug
 		ClientHello ch = new ClientHello(currentTLS.getProtocolVersion(), client_random, session_id, Utils.concat(CipherSuite.TLS_RSA_WITH_AES_128_CBC_SHA, CipherSuite.TLS_RSA_WITH_3DES_EDE_CBC_SHA), new byte[] {0x00}, extensions);
@@ -1373,6 +1391,7 @@ public class TLSTestService {
 
 		keystore.load(fIn, password);
 		clientCertificate = (X509Certificate) keystore.getCertificate("client");
+		System.out.println(clientCertificate);
 		clientPrivateKey  = (PrivateKey) keystore.getKey("client", password);
 		
 		// Generate DH keys for this session

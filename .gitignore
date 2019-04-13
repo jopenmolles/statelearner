@@ -1,6 +1,8 @@
 /target/
 .vscode/
 .settings/
-.classpath
-.project
+*.classpath
+*.project
 dependency-reduced-pom.xml
+output.log
+output_server/

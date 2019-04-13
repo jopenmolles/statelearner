@@ -1,3 +1,0 @@
-I0412 01:26:42.159448  2909 FizzServerCommand.cpp:369] Started listening on [::]:5489
-I0412 01:26:46.916738  2909 FizzServerCommand.cpp:377] Connection accepted from 127.0.0.1:58630
-E0412 01:26:46.937381  2909 FizzServerCommand.cpp:112] Handshake error: fizz::FizzException: supported version mismatch

@@ -1,0 +1,78 @@
+Apr 17, 2019 4:31:57 PM nl.cypherpunk.statelearner.Learner <init>
+INFO: Using TLS SUL
+Apr 17, 2019 4:32:02 PM nl.cypherpunk.statelearner.Learner learn
+INFO: Using learning algorithm ExtensibleLStarMealy
+Apr 17, 2019 4:32:02 PM nl.cypherpunk.statelearner.Learner learn
+INFO: Using equivalence algorithm MealyModifiedWMethodEQOracle
+Apr 17, 2019 4:32:02 PM nl.cypherpunk.statelearner.Learner learn
+INFO: Starting learning
+Apr 17, 2019 4:32:02 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 1
+Apr 17, 2019 5:36:22 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:22 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 2
+Apr 17, 2019 5:36:23 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:23 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 3
+Apr 17, 2019 5:36:23 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:23 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 4
+Apr 17, 2019 5:36:23 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:23 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 5
+Apr 17, 2019 5:36:23 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:23 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 6
+Apr 17, 2019 5:36:23 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:23 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 7
+Apr 17, 2019 5:36:24 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:24 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 8
+Apr 17, 2019 5:36:24 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:24 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 9
+Apr 17, 2019 5:36:25 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:25 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 10
+Apr 17, 2019 5:36:25 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:25 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 11
+Apr 17, 2019 5:36:25 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:25 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 12
+Apr 17, 2019 5:36:26 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:26 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 13
+Apr 17, 2019 5:36:26 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:26 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 14
+Apr 17, 2019 5:36:27 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:27 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 15
+Apr 17, 2019 5:36:27 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:27 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 16
+Apr 17, 2019 5:36:27 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA / Empty]
+Apr 17, 2019 5:36:27 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 17
+Apr 17, 2019 5:36:36 PM de.learnlib.logging.LearnLogger logCounterexample
+INFO: Counter-example found: Query[ε|ClientHelloRSA ApplicationDataEmpty Alert10 / HandshakeServerHelloTLSv12HandshakeCertificateHandshakeServerHelloDone Empty ConnectionClosed]
+Apr 17, 2019 5:36:36 PM de.learnlib.logging.LearnLogger logPhase
+INFO: Starting round 18

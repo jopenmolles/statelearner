@@ -1,0 +1,6755 @@
+Issuing CA key type: 1 (RSA)
+binding to: ::
+bound.
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+      RSA_WITH_3DES_EDE_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+ERROR: SSL error 552 (sent alert 40)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+ERROR: SSL error 10 (BR_ERR_UNEXPECTED)
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+socket closed...
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
+SSL closed normally
+accepting connection from: ::ffff:127.0.0.1
+Algorithms:
+   RNG:           rdrand
+   AES/CBC (enc): x86ni
+   AES/CBC (dec): x86ni
+   AES/CTR:       x86ni
+   AES/CCM:       x86ni
+   DES/CBC (enc): ct
+   DES/CBC (dec): ct
+   GHASH (GCM):   pclmul
+   ChaCha20:      sse2
+   Poly1305:      ctmulq
+   EC:            all_m31
+   ECDSA:         i31_asn1
+   RSA (vrfy):    i62
+Client parameters:
+   Maximum version:      TLS 1.2
+   Compatible cipher suites:
+      RSA_WITH_AES_128_CBC_SHA
+   Common sign+hash functions:
+      with RSA: sha1
+      with ECDSA: sha1
+Using: RSA_WITH_AES_128_CBC_SHA
